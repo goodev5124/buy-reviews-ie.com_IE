@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://buy-reviews.ie/sitemap.xml
+Sitemap: https://buy-reviews-ie.com/sitemap.xml
